@@ -1,0 +1,10 @@
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "c:\Users\amaan raza\Desktop\practise python\practise\amaan42.py", line 58, in <module>
+    z = x/y
+ZeroDivisionError: division by zero
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "c:\Users\amaan raza\Desktop\practise python\practise\amaan42.py", line 58, in <module>
+    z = x/y
+ZeroDivisionError: division by zero

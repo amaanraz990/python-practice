@@ -1,0 +1,25 @@
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "c:\Users\amaan raza\Desktop\practise python\practise\amaan42.py", line 11, in <module>
+    z = x/y
+ZeroDivisionError: division by zero
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "c:\Users\amaan raza\Desktop\practise python\practise\amaan42.py", line 11, in <module>
+    z = x/y
+ZeroDivisionError: division by zero
+ERROR:root:invalid literal for int() with base 10: 'jkh'
+Traceback (most recent call last):
+  File "c:\Users\amaan raza\Desktop\practise python\practise\amaan42.py", line 10, in <module>
+    y = int(input("enter another no. :"))
+ValueError: invalid literal for int() with base 10: 'jkh'
+ERROR:root:invalid literal for int() with base 10: 'hgy'
+Traceback (most recent call last):
+  File "c:\Users\amaan raza\Desktop\practise python\practise\amaan42.py", line 10, in <module>
+    y = int(input("enter another no. :"))
+ValueError: invalid literal for int() with base 10: 'hgy'
+ERROR:root:invalid literal for int() with base 10: '5& "C:/Users/amaan raza/AppData/Local/Programs/Python/Python310/python.exe" "c:/Users/amaan raza/Desktop/practise python/practise/amaan42.py"'
+Traceback (most recent call last):
+  File "c:\Users\amaan raza\Desktop\practise python\practise\amaan42.py", line 55, in <module>
+    x = int(input("enter no. :"))
+ValueError: invalid literal for int() with base 10: '5& "C:/Users/amaan raza/AppData/Local/Programs/Python/Python310/python.exe" "c:/Users/amaan raza/Desktop/practise python/practise/amaan42.py"'

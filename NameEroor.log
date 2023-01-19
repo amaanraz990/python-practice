@@ -1,0 +1,5 @@
+ERROR:root:name 'g' is not defined
+Traceback (most recent call last):
+  File "c:\Users\amaan raza\Desktop\practise python\practise\amaan42.py", line 60, in <module>
+    print(g)
+NameError: name 'g' is not defined
