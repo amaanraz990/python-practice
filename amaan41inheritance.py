@@ -311,7 +311,8 @@ class Backend:
 class Language (Frontant , Backend):
 
     def __init__(self,ui,ux,g,d,p,h):
-        super().__init__(ui,ux,g,d)          
+        Frontant.__init__(self,ui,ux)          
+        Backend.__init__(self,g,d)          
         self.py = p
         self.html = h
         
@@ -322,10 +323,16 @@ class Language (Frontant , Backend):
     def FrontantLan(self):
 
         print(self.html,"is frontant language")
+
 l1 = Language("navbar","grafix design" ,"game", "dbms management","python", "html")
 
 l1.BackendLan()
-
+l1.FrontantLan()
+l1.FrontantLan()
+l1.displayDatabase()
+l1.displayGame()
+l1. displayUI()
+l1. displayUX()
 
 
 
